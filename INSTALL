@@ -1,0 +1,9 @@
+Building Cashandbackcoin
+
+See doc/readme-qt.rst for instructions on building Cashandbackcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cashandbackcoin.
+
+See doc/build-*.txt for instructions on building cashandbackcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cashandbackcoin.
